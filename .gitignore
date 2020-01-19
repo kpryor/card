@@ -14,3 +14,4 @@ test_gen
 test_gen.caches
 TEST-*.xml
 junit*.properties
+ "data": "card": "network": "Mastercard", "number": "2224 9040 2374 5440", "cvv": 747, "pin": 8150, "balance": "?319", "expiration-month": "9", "expiration-year": "2024" , "customer": "name": "Ariadne Atkins", "address": "Watergate Walk 3335", "country": "Serbia"
